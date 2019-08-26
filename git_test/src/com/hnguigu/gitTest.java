@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("sdf");
         System.out.println("sdf");
         System.out.println("sdf");
+        System.out.println("6666666");
     }
 }
