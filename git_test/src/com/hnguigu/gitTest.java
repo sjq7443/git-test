@@ -7,4 +7,7 @@ public class gitTest {
         System.out.println("sdf");
         System.out.println("6666666");
     }
+    public void test(){
+        System.out.println("8888");
+    }
 }
